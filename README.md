@@ -1,2 +1,6 @@
 # hello-world
-Just Learn How to Create My Own Program Design
+Just Learn How to Create My Own Program Design..
+Hi, I am Alfian,I was interesting to learn programming language, as i know it were very wide languages.
+Unfortunetely, I just get some tiny little basic of programming, just wanted to learn more about it... 
+Hopefully, this site and community will help me to implement that kind of languages for my own need to get more efficiency of cost and time.
+Thank you...
